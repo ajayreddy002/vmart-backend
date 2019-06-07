@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vmart-278cf",
+  "private_key_id": "1e4c951c42a97aaaa0ff29a1fda492a18f75754a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkF+Cu5iq70M9Z\n7VxrAdQMPaZwvto9BZXEs6cY55whlMN0nfaIjtKqz41JRyZSqFSthX+WJlidr9yr\nIlo78UnSBw1MHG+D5O05HafKMi3zf6jFMPAj50Sm27fel0gZRqnkpy1bWSIyBQtj\nz23AJ+/YLNxwJsz8lJYMwenQHvjNIEuLpGWYJslhJzqRgmlJV6JA2TdkIyNTnfcv\n47SHllO6bDceeYHzN6KmF3zbZcsFnQ1Zw+KoztmYEpZnG3B7ZfIwopMXaIhNULSn\nLnRQXLZo3LifKtSUQ76Eo6Wbo16Tpvm0ViWD0Wd0l8VuQ6hX7dC/UajTJZf/xQb3\n/JkzrbzDAgMBAAECggEAStT0yu3+KP6VwN3lGouP5zEqORpgLhng7f47wrjE0++i\nnwj2h9oSKoFSXkuLJ4DKdQN/ZrsACJFNoeGdot5rmtNKdh41oMGCiVyDy0rM99GM\n5rhlmwn5ndpvZJw67gPysGqo3ZKtbIAubIsI8uuDjmMO+DpJmxorv4+jEB0/u1M2\nxD1bvMbcl0NCO+UpPV8FfREiCcRVpap0YZcQdIBhPLGJpmLF+Gad+xVGRROek4NC\nKbaTKdkI8ClKuZVsw0pZmwVuRYVcEASGbvg05RMfSbr3t/CV/sradcGwMXqFEcuF\nxOyy6qI2BZ0isZktwR4hpsyorRGBzWPKbsJyjhuAKQKBgQDY16oxGTmU/in7qWLo\nCB+of9wNNCqGu7dRBJcNI1oKv6ktd4RxEQRCvQDrVkjs92auvF+tu2OkuMKfGQ3k\nWgWPqg9iCRSRsiRi58HY2YS3o+yNevv4XfA4tLYgMVMIV3Xp9tKaPXkypdRH8FEC\nGK9JNAUNVLV+cXc37osMts5rxwKBgQDBubCGJFTp6pNLKawVE0VDFUt2RsUCTR9Y\nKW/XSRevv7rNoAhcdwXcw+Tm7t+GCMiAX0ARzgqSQLW1jEFH1t0IRn7UJTW4xJL9\nxDLIN5HMCVlxxifnzonImf0t81cSwt888hgSprTYnh5GOqHFH5zLvEZQ8PeIFlRA\naAsEETyPJQKBgQCSzO6bbshc5fTmOzaKf3VvTaBcEAT6Ufs5DjJ04ooC3N5buZ4g\nLbUEuY/1wuR8CMGrajwcEdDTo4Ge1AdjoM5DBI6FgEA8oq2fh+bkN95xtLhgz/Hl\nozMOMMlb4gikjRF243KQmS2D7GBak4dENBH3LRB+heqZP5fGdegNI3V74QKBgQC/\n+PMk+vvqkbpE0Zbli6MnRwLwwlCYZzSYePeLr7L5RlYnTl76wjfc/YLoFe8LM8j8\n7WbgPf3b0KRAtCw8tH90o+cq83S5FJNVRgfMwMSKHPm19Ve2LsX7NB3gWzP+M35l\nNsMEOI8d2hLGJXQJk7odawWDUEb7ZKU47eF8tlf8wQKBgBv32z2VvdI95vWJPrXD\nt/snz0hUvKUeURrTT7wvSk+sn6OLlto1uJJzwILAdVuLFyzyRVKfeRSpRhwG08DE\nHaFGu76N9bNjUuWAYWa1VhukGkX/uZX1tTwmVWrRxg+ZNhlfm1UzdkE1GOIj7z64\n0xJ3kAbTY2wf+PvzExun/xhA\n-----END PRIVATE KEY-----\n",
+  "client_email": "vmart-821@vmart-278cf.iam.gserviceaccount.com",
+  "client_id": "103423760338400537726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vmart-821%40vmart-278cf.iam.gserviceaccount.com"
+}
