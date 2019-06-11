@@ -79,12 +79,11 @@ productController = module.exports = {
                 ]
             }).then(async data => {
                 const files = await productController.getFilesFromGCloud(data).then(files => {
-                    console.log(files, 'filesmetho')
-                    data
-                    res.send(data);
+
                 }).catch(error => {
                     console.log(error);
                 });
+                res.send(data);
             }).catch(e => {
                 console.log(e);
                 res.status(400).end('Something went wrong');
@@ -209,10 +208,13 @@ productController = module.exports = {
                     const options = {
                         prefix: prefix[0]
                     }
-                    const [files] = await storage.bucket(bucket.name).file(`${prefix[0]}/${prefix[1]}`).getMetadata();
-                    if (files) {
-                        resolve(files)
-                    }
+                    const [files] = await storage.bucket(bucket.name).file(`${prefix[0]}/${prefix[1]}`).getMetadata().then(data => {
+                        if (files) {
+                            resolve(files)
+                        }
+                    }).catch(e => {
+                        reject(e);
+                    });
 
                     console.log('Files:', files);
                     // files.forEach(file => {
